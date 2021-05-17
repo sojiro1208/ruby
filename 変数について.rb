@@ -5,8 +5,6 @@ puts "秒数を知りたい時間を分単位で入力してください"
 minutes = gets.to_i
 seconds = minutes * 60
 puts "#{name}さん、#{minutes}分は#{seconds}秒です"
-<<<<<<< Updated upstream
-=======
 
 変数...値を入れる箱のようなもの。変数名の名前をつける。値を再利用したい場合に変数名を使うだけで利用できる。
   宣言...変数を作ること
@@ -26,4 +24,3 @@ puts "#{name}さん、#{minutes}分は#{seconds}秒です"
     ・日本語を使わない
     ・スペースを含めない
     ・予約語を使用しない
->>>>>>> Stashed changes
